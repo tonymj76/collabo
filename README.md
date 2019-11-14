@@ -1,1 +1,1 @@
-# collabo
+Andela Capstone Project Details: for DevC
